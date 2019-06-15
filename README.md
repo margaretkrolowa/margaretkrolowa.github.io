@@ -4,8 +4,18 @@ project website
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Wszystko o sfinksach!
-   </title>
+    <title>Wszystko o sfinksach!</title>
+    <style>
+      h1{
+  color: pink;
+}
+h2{
+  color: rgb(130,75,50);
+}
+body{
+  background-color: rgb(97,250,255);
+}
+    </style>
    
   </head>
   <body>
